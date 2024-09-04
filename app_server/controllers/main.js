@@ -1,6 +1,6 @@
 /* GET homepage */
 const index = (req, res) => {
-    res.render('index', { title: 'Pharmacy Management System' });
+    res.render('index', { title: 'Express' });
    };
 module.exports = {
 index
